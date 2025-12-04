@@ -4,26 +4,9 @@
   <modelVersion>4.0.0</modelVersion>
 
 
-    <!-- Il progetto Maven deve essere impostato con queste coordinate:
-         Versione: 1.0;
-         Artefatto: esame-ingsw
-         Gruppo: Package del progetto. -->
+   
 
-    <version>1.0</version>
-    <artifactId>esame-ingsw</artifactId>
-    <groupId>it.unical.demacs</groupId>
-
-
-    <!-- Modificare le informazioni generali del progetto come segue:
-        Nome del progetto: "Esame Ingegneria 2024"
-        URL del progetto: https://demacs.unical.it/
-        Descrizione del progetto: Inserire una descrizione adeguata e interessante del progetto.
-        Anno di inizio del progetto: 2024 -->
-
-    <name>Esame ingegenria</name>
-    <url>https://demacs.unical.it/</url>
-    <description>Bello</description>
-    <inceptionYear>2025</inceptionYear>
+   
 
     <properties>
 
@@ -31,31 +14,8 @@
     <maven.compiler.target>21</maven.compiler.target>
   </properties>
 
-   <!-- ecco come risolvere la parte di junit per la prova  prendere i file da mvnrepository-->
-    <dependencies>
-        <!-- https://mvnrepository.com/artifact/org.junit.jupiter/junit-jupiter-api -->
-        <dependency>
-            <groupId>org.junit.jupiter</groupId>
-            <artifactId>junit-jupiter-api</artifactId>
-            <version>5.14.1</version>
-            <scope>test</scope>
-        </dependency>
-        <!-- https://mvnrepository.com/artifact/org.junit.jupiter/junit-jupiter-api -->
-        <dependency>
-            <groupId>org.junit.jupiter</groupId>
-            <artifactId>junit-jupiter-engine</artifactId>
-            <version>5.14.1</version>
-            <scope>test</scope>
-        </dependency>
-        <!-- https://mvnrepository.com/artifact/org.junit.jupiter/junit-jupiter-params -->
-        <dependency>
-            <groupId>org.junit.jupiter</groupId>
-            <artifactId>junit-jupiter-params</artifactId>
-            <version>5.14.1</version>
-            <scope>test</scope>
-        </dependency>
-
-    </dependencies>
+   
+        
 
 
 
