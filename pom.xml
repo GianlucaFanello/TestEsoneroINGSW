@@ -10,7 +10,7 @@
     <artifacId>esame-ingsw</artifacId>
     <groupId>Package del progetto</groupId>
 
-    
+
 
     <name>Esame Ingegneria 2024</name>
     <url>https://demacs.unical.it</url>
@@ -23,6 +23,22 @@
     <maven.compiler.source>21</maven.compiler.source>
     <maven.compiler.target>21</maven.compiler.target>
   </properties>
+
+
+    <dependencies>
+        <dependency>
+            <groupId>org.junit.jupiter</groupId>
+            <artifactId>junit-jupiter-api</artifactId>
+            <version>5.14.1</version>
+            <scope>test</scope>
+        </dependency>
+        <dependency>
+            <groupId>org.junit.jupiter</groupId>
+            <artifactId>junit-jupiter-engine</artifactId>
+            <version>5.14.1</version>
+            <scope>test</scope>
+        </dependency>
+    </dependencies>
 
    
         

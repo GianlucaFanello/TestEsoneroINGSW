@@ -5,7 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="682a95ab-6571-4138-a4b5-ffc64ad0b9d8" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -30,32 +32,33 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;JUnit.InventoryTest.addProductCreateSingleProduct.executor&quot;: &quot;Run&quot;,
-    &quot;JUnit.InventoryTest.addProductIncreaseQuantityOnExistingProduct.executor&quot;: &quot;Run&quot;,
-    &quot;JUnit.InventoryTest.addProductThrowsOnNegative.executor&quot;: &quot;Run&quot;,
-    &quot;JUnit.InventoryTest.executor&quot;: &quot;Run&quot;,
-    &quot;JUnit.InventoryTest.makeOrderNoSuchItemStatus.executor&quot;: &quot;Run&quot;,
-    &quot;JUnit.InventoryTest.makeOrderNotEnoughItemStatus.executor&quot;: &quot;Run&quot;,
-    &quot;JUnit.InventoryTest.makeOrderOrdered.executor&quot;: &quot;Run&quot;,
-    &quot;JUnit.InventoryTest.makeOrderPresence.executor&quot;: &quot;Run&quot;,
-    &quot;JUnit.InventoryTest.makeOrderThrowsOnNegative.executor&quot;: &quot;Run&quot;,
-    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/Gianluca/provaLaboratorio/simulazione-esonero-GianlucaFanello&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;editor.preferences.completion&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "JUnit.InventoryTest.addProductCreateSingleProduct.executor": "Run",
+    "JUnit.InventoryTest.addProductIncreaseQuantityOnExistingProduct.executor": "Run",
+    "JUnit.InventoryTest.addProductThrowsOnNegative.executor": "Run",
+    "JUnit.InventoryTest.executor": "Run",
+    "JUnit.InventoryTest.makeOrderNoSuchItemStatus.executor": "Run",
+    "JUnit.InventoryTest.makeOrderNotEnoughItemStatus.executor": "Run",
+    "JUnit.InventoryTest.makeOrderOrdered.executor": "Run",
+    "JUnit.InventoryTest.makeOrderPresence.executor": "Run",
+    "JUnit.InventoryTest.makeOrderThrowsOnNegative.executor": "Run",
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "test",
+    "ignore.virus.scanning.warn.message": "true",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/Gianluca/Desktop/testEsonero/TestEsoneroINGSW",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "editor.preferences.completion",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="RunManager" selected="JUnit.InventoryTest.addProductCreateSingleProduct">
     <configuration name="InventoryTest.addProductCreateSingleProduct" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="simulazione-esonero-GianlucaFanello" />
@@ -163,6 +166,7 @@
       <option name="presentableId" value="Default" />
       <updated>1763452225438</updated>
       <workItem from="1763452227151" duration="5178000" />
+      <workItem from="1764855788968" duration="622000" />
     </task>
     <servers />
   </component>
