@@ -1,0 +1,172 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="682a95ab-6571-4138-a4b5-ffc64ad0b9d8" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 7
+}</component>
+  <component name="ProjectId" id="35duMsPDG0NJMxTbcVkx8TaYgVS" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "JUnit.InventoryTest.addProductCreateSingleProduct.executor": "Run",
+    "JUnit.InventoryTest.addProductIncreaseQuantityOnExistingProduct.executor": "Run",
+    "JUnit.InventoryTest.addProductThrowsOnNegative.executor": "Run",
+    "JUnit.InventoryTest.executor": "Run",
+    "JUnit.InventoryTest.makeOrderNoSuchItemStatus.executor": "Run",
+    "JUnit.InventoryTest.makeOrderNotEnoughItemStatus.executor": "Run",
+    "JUnit.InventoryTest.makeOrderOrdered.executor": "Run",
+    "JUnit.InventoryTest.makeOrderPresence.executor": "Run",
+    "JUnit.InventoryTest.makeOrderThrowsOnNegative.executor": "Run",
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "ignore.virus.scanning.warn.message": "true",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/Gianluca/provaLaboratorio/simulazione-esonero-GianlucaFanello",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "editor.preferences.completion",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RunManager">
+    <configuration name="InventoryTest.addProductCreateSingleProduct" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="simulazione-esonero-GianlucaFanello" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="it.unical.demacs.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="it.unical.demacs" />
+      <option name="MAIN_CLASS_NAME" value="it.unical.demacs.InventoryTest" />
+      <option name="METHOD_NAME" value="addProductCreateSingleProduct" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="InventoryTest.makeOrderNotEnoughItemStatus" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="simulazione-esonero-GianlucaFanello" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="it.unical.demacs.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="it.unical.demacs" />
+      <option name="MAIN_CLASS_NAME" value="it.unical.demacs.InventoryTest" />
+      <option name="METHOD_NAME" value="makeOrderNotEnoughItemStatus" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="InventoryTest.makeOrderOrdered" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="simulazione-esonero-GianlucaFanello" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="it.unical.demacs.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="it.unical.demacs" />
+      <option name="MAIN_CLASS_NAME" value="it.unical.demacs.InventoryTest" />
+      <option name="METHOD_NAME" value="makeOrderOrdered" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="InventoryTest.makeOrderPresence" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="simulazione-esonero-GianlucaFanello" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="it.unical.demacs.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="it.unical.demacs" />
+      <option name="MAIN_CLASS_NAME" value="it.unical.demacs.InventoryTest" />
+      <option name="METHOD_NAME" value="makeOrderPresence" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="InventoryTest.makeOrderThrowsOnNegative" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="simulazione-esonero-GianlucaFanello" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="it.unical.demacs.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="it.unical.demacs" />
+      <option name="MAIN_CLASS_NAME" value="it.unical.demacs.InventoryTest" />
+      <option name="METHOD_NAME" value="makeOrderThrowsOnNegative" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.InventoryTest.makeOrderPresence" />
+        <item itemvalue="JUnit.InventoryTest.makeOrderOrdered" />
+        <item itemvalue="JUnit.InventoryTest.makeOrderNotEnoughItemStatus" />
+        <item itemvalue="JUnit.InventoryTest.addProductCreateSingleProduct" />
+        <item itemvalue="JUnit.InventoryTest.makeOrderThrowsOnNegative" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9823dce3aa75-bf35d07a577b-intellij.indexing.shared.core-IU-252.26199.169" />
+        <option value="bundled-js-predefined-d6986cc7102b-9c94529fcfe0-JavaScript-IU-252.26199.169" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="682a95ab-6571-4138-a4b5-ffc64ad0b9d8" name="Changes" comment="" />
+      <created>1763452225438</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1763452225438</updated>
+      <workItem from="1763452227151" duration="5178000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
