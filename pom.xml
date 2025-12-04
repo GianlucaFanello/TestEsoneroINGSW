@@ -4,9 +4,19 @@
   <modelVersion>4.0.0</modelVersion>
 
 
-   
 
-   
+
+    <version>1.0</version>
+    <artifacId>esame-ingsw</artifacId>
+    <groupId>Package del progetto</groupId>
+
+    
+
+    <name>Esame Ingegneria 2024</name>
+    <url>https://demacs.unical.it</url>
+    <description>Nuova descrizione</description>
+    <inceptionYear>2024</inceptionYear>
+
 
     <properties>
 
